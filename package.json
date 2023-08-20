@@ -1,6 +1,6 @@
 {
     "name": "htbl",
-    "version": "1.0.25",
+    "version": "1.0.26",
     "description": "a stupid way to write backends",
     "main": "index.js",
     "scripts": {
