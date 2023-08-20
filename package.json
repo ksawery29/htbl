@@ -1,0 +1,32 @@
+{
+    "name": "htbl",
+    "version": "1.0.0",
+    "description": "a stupid way to write backends",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ksawery29/htbl.git"
+    },
+    "keywords": [
+        "backend",
+        "framework",
+        "typescript"
+    ],
+    "author": "Ksawery Szewczyk",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ksawery29/htbl/issues"
+    },
+    "homepage": "https://github.com/ksawery29/htbl#readme",
+    "devDependencies": {
+        "@types/node": "^20.5.1",
+        "typescript": "^5.1.6"
+    },
+    "dependencies": {
+        "node-html-parser": "^6.1.6"
+    }
+}
