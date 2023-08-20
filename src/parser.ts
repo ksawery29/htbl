@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { parse } from "node-html-parser";
 import { ParserOutput } from "../types/parser";
 import fs from "fs/promises";

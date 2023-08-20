@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { Parser } from "./parser";
 import { Server } from "./server";
 
