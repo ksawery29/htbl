@@ -6,7 +6,7 @@ as the title says, its a parser for html to write backends inspired by [this pos
 
 ### example
 
-heres a example how to return hello world
+heres an example how to return hello world
 
 ```html
 <!--returns hello world at localhost:3215-->
